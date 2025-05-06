@@ -1,0 +1,1 @@
+Colorzilla: una extensión de Google. Es un selector de colores, sirve para poder sacar un color dentro del navegador o fuera, donde pones el puntero del mouse arriba del color que quieres y te dice el código en Hexa o RGB.
